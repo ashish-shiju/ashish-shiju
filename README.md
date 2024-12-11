@@ -68,10 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ashish-shiju/ashish-shiju/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/ashish-shiju/count.svg?"  />
 </div>
