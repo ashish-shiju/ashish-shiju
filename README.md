@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 Third Year Student majoring in Computational Data Science and Computer Science at the University of Sydney<br>✨ Passionate about Data Science, Machine Learning, Deep Learning, and exploring the endless innovations in the field of AI.<br>🎲 Hobbies are Football, F1, Movies, Music, Technology<br>🎯 Goal: Establish a successful startup in the field of AI that is scalable and ethical with the vision of transforming lives and industries for the better</p>
+<p align="left">📚 3rd Year undergraduate majoring in Computational Data Science and Computer Science at the University of Sydney<br>✨ Passionate about Data Science, Machine Learning, Deep Learning, and exploring the endless innovations in the field of AI.<br>🎲 Hobbies are Football, F1, Movies, Music, Technology<br>🎯 Goal: Establish a successful startup in the field of AI that is scalable and ethical with the vision of transforming lives and industries for the better</p>
 
 ###
 
